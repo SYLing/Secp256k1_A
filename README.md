@@ -24,6 +24,11 @@ pod 'Secp256k1_A'
 
 SYLing, 534585931@qq.com
 
+## Version Log
+- 0.1.3 only arm64
+- 0.1.2 arm64 armv7 armi386 x86_64
+
+ 
 ## License
 
 Secp256k1_A is available under the MIT license. See the LICENSE file for more info.
